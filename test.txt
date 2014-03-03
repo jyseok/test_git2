@@ -3,5 +3,5 @@
 	<li>Erlang</li>
 	<li>Phtyon</li>
 	<li>objective C</li>
-	<li>Javascript</li>
+	<li>Rudy</li>
 </ui>
